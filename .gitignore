@@ -1,0 +1,9 @@
+.idea
+target
+*.iml
+.classpath
+.project
+.settings
+application-dev.yml
+*.jpg
+test
