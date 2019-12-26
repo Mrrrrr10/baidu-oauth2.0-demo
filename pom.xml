@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.nolookblog</groupId>
-    <artifactId>oauth2.0</artifactId>
+    <artifactId>baidu-oauth2.0-demo</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>oauth2.0</name>
+    <name>baidu-oauth2.0-demo</name>
     <description>Demo project</description>
 
     <profiles>
